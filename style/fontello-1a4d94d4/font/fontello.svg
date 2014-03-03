@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2013 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="home" unicode="&#x2302;" d="m888 336q16-16 11-27t-27-11l-84 0l0-310q0-14-1-21t-8-13t-23-6l-204 0l0 310l-204 0l0-310l-194 0q-28 0-35 10t-7 30l0 310l-84 0q-22 0-27 11t11 27l400 402q16 16 38 16t38-16z" horiz-adv-x="900" />
+<glyph glyph-name="facebook" unicode="&#xf30c;" d="m500 644l-142 0q-14 0-25-15t-11-37l0-102l178 0l0-148l-178 0l0-442l-170 0l0 442l-152 0l0 148l152 0l0 86q0 94 59 159t147 65l142 0l0-156z" horiz-adv-x="500" />
+<glyph glyph-name="twitter" unicode="&#xf058;" d="m0 68q0-7 7-13q13-8 44-24q119-62 250-62q163 0 296 84q63 40 113 96t78 118t43 123t14 119v17q57 41 89 94q3 6 3 9q0 6-5 11t-11 5q-4 0-12-4q-6-2-14-5t-15-5t-8-3q13 15 26 39t14 35q0 6-5 11t-11 5q-4 0-8-3q-56-29-104-40q-59 56-141 56q-84 0-143-59t-59-141q0-15 2-24q-83 7-159 39t-138 88q-14 14-55 57q-6 6-13 6q-6 0-13-8q-12-19-20-46t-7-54q0-73 45-127l-14 7q-12 5-18 5q-8 0-14-5t-5-12q0-52 26-97t71-74l-5 1q-1 0-3 1t-3 1t-1 0q-7 0-11-5t-5-11q0 0 1-5q17-51 55-86t90-48q-84-52-187-52q-7 0-22 1q-20 1-22 1q-7 0-11-5t-5-11z" horiz-adv-x="937.5" />
+<glyph glyph-name="tree-1" unicode="&#xe83e;" d="m325 800l-275-250l150 0l-200-200l150 0l-150-200l250 0l0-200c0-28 22-50 50-50l50 0c28 0 50 22 50 50l0 200l250 0l-150 200l150 0l-200 200l150 0l-275 250z" horiz-adv-x="650" />
+<glyph glyph-name="linkedin" unicode="&#xf31a;" d="m238-150l0 675l-225 0l0-675l225 0z m-113 767c79 0 127 52 127 116c-1 67-48 117-125 117c-77 0-127-50-127-117c0-64 49-116 124-116l1 0z m237-767l224 0l0 377c0 20 1 40 7 55c17 40 53 82 115 82c82 0 114-62 114-153l0-361l224 0l0 387c0 207-110 304-258 304c-121 0-174-68-204-114l2 0l0 98l-224 0c3-64 0-675 0-675z" horiz-adv-x="1046" />
+<glyph glyph-name="mail" unicode="&#xe800;" d="m105 845h1152q43 0 74-31t31-74v-785q0-44-31-75t-74-30h-1152q-43 0-74 30t-31 75v785q0 43 31 74t74 31z m69-157l507-423l507 423h-1014z m-17-681h1048v558l-494-412h-61l-493 412v-558z" horiz-adv-x="1360" />
+</font>
+</defs>
+</svg>
